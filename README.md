@@ -56,8 +56,5 @@ La agregación es una relación más débil que la composición, donde una clase
 
 ## **Conclusión**  
 
-Estos ejercicios cubren aspectos clave de la Programación Orientada a Objetos en Perl, incluyendo la definición de clases, el uso de constructores, encapsulación con *getters* y *setters*, herencia, y diferentes tipos de relaciones entre clases como asociación, composición y agregación. Cada ejemplo ilustra cómo modelar y estructurar sistemas más complejos mediante el uso de objetos, fomentando un diseño limpio y reutilizable.
+Estos ejercicios cubren aspectos de la Programación Orientada a Objetos en Perl, incluyendo la definición de clases, el uso de constructores, encapsulación con *getters* y *setters*, herencia, y diferentes tipos de relaciones entre clases como asociación, composición y agregación. Cada ejemplo ilustra cómo modelar y estructurar sistemas más complejos mediante el uso de objetos, fomentando un diseño limpio y reutilizable.
 
---- 
-
-Si tienes alguna duda sobre los conceptos o necesitas una aclaración más profunda, ¡no dudes en preguntar! 😊
