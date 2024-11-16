@@ -1,6 +1,8 @@
 # Ejercicios en Perl: Programación Orientada a Objetos (POO)
 Nombre: Jerry Anderson Huaynacho Mango
-Curos: Programacion Web 1
+---
+
+Curso: Programacion Web 1
 ---
 
 ## **1. Definición de una Clase en Perl**  
